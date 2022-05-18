@@ -1,8 +1,9 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
-<img src="screenshot/main.py-2022-05-18-114236.jpg" width="75%"></img>
+<img src="pics/main.py-2022-05-18-114236.jpg" width="75%"></img>
 </p>
+
 
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
 
